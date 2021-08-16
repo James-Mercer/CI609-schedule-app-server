@@ -1,2 +1,3 @@
-// To Run server 
-node server.js
+To Run server - 
+- run "npm install"
+- "node server.js"
